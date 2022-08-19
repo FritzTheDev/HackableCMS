@@ -1,2 +1,3 @@
 # HackableCMS
-Open-Source + Hackable CMS designed for Programmatic SEO.
+
+Hackable CMS designed as a boilerplate template for Programmatic SEO.
